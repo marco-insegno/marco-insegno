@@ -1,7 +1,7 @@
 ![Masterhead](https://www.smarcode.it/wp-content/uploads/2022/12/smarcode_logo-scritta-bianca.png)
 <h1 align="center">Hi ✌️, I'm Marco</h1>
 <h3 align="center">A creative frontend developer from Genoa, Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f17dd7e2fc9b0f17a0ed9cb690b3ded857da5de1&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/6f/06/096f066acd118519afe82bad36d398d7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-insegno&label=Profile%20views&color=0e75b6&style=flat" alt="marco-insegno" /> </p>
 
